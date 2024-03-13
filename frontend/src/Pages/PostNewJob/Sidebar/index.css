@@ -1,0 +1,21 @@
+.custom-bg-sidebar{
+    box-shadow: 4px 0px 14px 0px #0000001A;
+}
+
+#sideActiveJob {
+  background : #0095DD1A
+
+  }
+
+  #sideInactiveJob {
+    width : 100%;
+    margin-right: 1rem;
+  }
+
+  .custom-btn-buymore{
+    border: 1px solid;
+    padding: 1rem;
+    border: linear-gradient(94.18deg, #000099 0%, #004EA8 106.71%);
+
+
+  }

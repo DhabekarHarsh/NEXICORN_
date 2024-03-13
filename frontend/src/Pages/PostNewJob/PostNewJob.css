@@ -1,0 +1,18 @@
+.custom-bg-postnewjob{
+    background: #F5F5F5;
+    box-shadow: 0px 1px 2px 0px #0000004D;
+    border-radius: 20px;
+}
+
+.custom-btn-newjob{
+    background: linear-gradient(96.97deg, #000099 -19.14%, #004EA8 107.82%);
+}
+
+.custom-searchbar-newjob{
+    border: 1px solid #000099 ;    
+    border-radius: 40px;
+}
+
+.custom-col-text-grey{
+    color : #888888;
+}
